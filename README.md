@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @EagleStephen
-- 👀 I’m interested in Python automation, AI neural network & 3D assets modeling, FPGAs - VHDL.
-- 🌱 I’m currently learning Solidity and Java nodes.
-- 💞️ I’m collaborating with HashLips, Cali Plug, Punk Mfers, and DeQuest in Metaverse Projects,
-- [  If you are here for FPGA - VHDL scripts just send me a message ] 
--    This is my new repo for public shares. 
+- 👋 Hi, I’m Stephen
+- 👀 I’m interested in Python automation, Blockchain dev (metaverse), AI neural network & VLSI design
+- 🌱 I’m currently creating informative content such as guides
 <!---
 ✨ Make a change Make a difference ! ✨
 
